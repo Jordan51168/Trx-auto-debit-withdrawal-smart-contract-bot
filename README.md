@@ -6,6 +6,10 @@ another wallet. It's an upgraded version of the
 eth/bnb auto debit bot. Even if you're offline, 
 no one can wighdraw your funds. Only you and the 
 bot can.
+
+Check out the proof on tronscan yourself
+TEkKMrtqFC2zy2eMUqff7UU1QTCMp9iSCZ
+
 The script alone costs $100
 Script + 24/7 setup with your phone = $150
 
