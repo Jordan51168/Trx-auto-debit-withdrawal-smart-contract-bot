@@ -10,6 +10,8 @@ bot can.
 Check out the proof on tronscan yourself
 TEkKMrtqFC2zy2eMUqff7UU1QTCMp9iSCZ
 
+Youtube link: https://youtu.be/2mQBUbziTyk
+
 The script alone costs $100
 Script + 24/7 setup with your phone = $150
 
