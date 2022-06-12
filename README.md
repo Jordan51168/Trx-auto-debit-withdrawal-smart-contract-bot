@@ -16,4 +16,3 @@ The script alone costs $100
 Script + 24/7 setup with your phone = $150
 
 Reach me on TG @pribacyreload
-            WhatsApp +447362027866
